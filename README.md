@@ -9,4 +9,6 @@ Key Skills Demonstrated: Pyton, Pandas, Matplotlib, Data Visualization, Data Cle
 
 Key Findings: Identified patterns between the planet temperatures and orbital periods, observed that most planets are sized between 1 and 4 times the size of earth, identified 19 potentially habitable exoplanets and observed that the temperature of the star is not necessarily an identifying characteristic.
 
-How to View: Open the .ipynb file or the HTML file to see the full analysis.
+How to View: Open the .ipynb file to see the full analysis.
+
+you can [view the HTML version here](Exoplanet%20analysis.html)
