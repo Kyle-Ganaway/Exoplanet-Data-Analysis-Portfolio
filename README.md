@@ -11,4 +11,4 @@ Key Findings: Identified patterns between the planet temperatures and orbital pe
 
 How to View: Open the .ipynb file to see the full analysis.
 
-you can [view the HTML version here](Exoplanet%20analysis.html)
+you can [view the HTML version here](https://kyle-ganaway.github.io/Exoplanet-Data-Analysis-Portfolio/Exoplanet%20analysis.html)
